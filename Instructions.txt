@@ -1,0 +1,20 @@
+Download and install Node.js from https://nodejs.org/en/download.
+
+Open the terminal, navigate to the folder where the script is located, and type the command below:
+
+npm install puppeteer@22.6.1
+Check if the node_modules folder is created.
+
+Open the file lancahora.js and:
+
+Set the variable monthToLaunch. For example, January = 1, December = 12.
+Set the variable initialDay with the start day to launch.
+Set the variable periods. The first line represents the period before lunch, and the second line represents the period after lunch.
+Type the command below:
+
+node lancahora.js show
+This will show the window and log in to FCTeam.
+
+Close all windows and execute the command below:
+
+node lancahora.js

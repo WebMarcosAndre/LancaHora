@@ -1,0 +1,15 @@
+2024/07/30-17:02:12.410 1300 Reusing MANIFEST D:\Projetos\LancaHora\fcTeam\Default\Local Storage\leveldb/MANIFEST-000001
+2024/07/30-17:02:12.423 1300 Recovering log #23
+2024/07/30-17:02:12.426 1300 Reusing old log D:\Projetos\LancaHora\fcTeam\Default\Local Storage\leveldb/000023.log 
+2024/07/30-17:05:12.634 58b4 Level-0 table #26: started
+2024/07/30-17:05:12.656 58b4 Level-0 table #26: 55338 bytes OK
+2024/07/30-17:05:12.661 58b4 Delete type=0 #23
+2024/07/30-17:05:12.662 1300 Compacting 4@0 + 1@1 files
+2024/07/30-17:05:12.673 1300 Generated table #27@0: 23 keys, 9314 bytes
+2024/07/30-17:05:12.673 1300 Compacted 4@0 + 1@1 files => 9314 bytes
+2024/07/30-17:05:12.675 1300 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/07/30-17:05:12.677 1300 Delete type=2 #14
+2024/07/30-17:05:12.678 1300 Delete type=2 #17
+2024/07/30-17:05:12.678 1300 Delete type=2 #20
+2024/07/30-17:05:12.678 1300 Delete type=2 #22
+2024/07/30-17:05:12.678 1300 Delete type=2 #26
